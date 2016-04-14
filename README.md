@@ -1,2 +1,2 @@
 # HelloWorld
-A "Hello World" repo
+A "Hello World" repository
